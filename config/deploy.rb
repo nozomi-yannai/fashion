@@ -6,7 +6,7 @@ set :repo_url, "https://github.com/nozomi-yannai/AWS_test2/"
 set :bundle_without, %w{test}.join(':')
 set :branch, 'main'
 set :rbenv_version, '3.0.6'
-append :linked_files, 'config/secrets.yml'
+set :linked_files, %w{config/secrets.yml .env}
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
