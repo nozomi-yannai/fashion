@@ -51,7 +51,7 @@
 # ------------------------------------
 server "35.72.196.31",
     user: "ec2-user",
-    roles: %w{web app},
+    roles: %w{web app db},
     ssh_options: {
         user: "ec2-user", # overrides user setting above
         keys: ["~/Downloads/1234567890qwertyuiop.pem"],
