@@ -2,7 +2,7 @@
 
 ## 開発言語
 
-- Ruby 3.3.0
+- Ruby 3.0.6
 - Rails rails 6.1.7.6
 
 ## 実行手順
@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1f02fLxpIY9XlBqnHub8U6yIn0XZcUHNLB2xnLEeC
 https://www.figma.com/design/6JTL1ss01MppxhaJHdpeAf/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0?node-id=0-1&t=xzIP0UgvqG7dIVPW-1
 
 ## ER図
-![ER図](https://github.com/nozomi-yannai/fashion/assets/155955988/eeb66ce7-d523-49b6-8d9c-b293e6d03ca9)
+![ER図](https://github.com/nozomi-yannai/fashion/assets/155955988/1f05d0cf-8797-4519-957e-c6c6c7c45f7d)
 
 ## 画面遷移図
-![画面遷移図](https://github.com/nozomi-yannai/fashion/assets/155955988/3c4824a4-1414-4a8e-a71f-888d5609015d)
+![画面遷移図](https://github.com/nozomi-yannai/fashion/assets/155955988/2726a7e1-6082-492e-921a-122f9933243b)
